@@ -17,4 +17,5 @@
 ├── README.md                # 專案說明文件                                                                                                                                                                             
 ├── environment.yml          # Conda 環境設定檔                                                                                                                                                                         
 └── .gitignore               # Git 忽略檔案規則                                                                                                                                                                         
-Competetion2_Datasets_Link https://drive.google.com/drive/folders/1yDLcu1347yMhLSPXw9Mpt0ZT-po1hdvV?usp=sharing
+Competetion2_Datasets_Link 
+https://drive.google.com/drive/folders/1yDLcu1347yMhLSPXw9Mpt0ZT-po1hdvV?usp=sharing
