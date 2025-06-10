@@ -1,4 +1,4 @@
-# YOLOv8 Column Crack Detection
+# Column Damage Detection Project
 
 本專案使用 YOLOv8 模型進行混凝土柱裂縫檢測，並進行模型訓練、測試資料推論以及結果輸出。
 
