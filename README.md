@@ -16,6 +16,6 @@
 ├──DLCV_Final_Competetion_Column_YoloV8.ipynb # 主程式碼                                                                                                                                                                                
 ├── README.md                # 專案說明文件                                                                                                                                                                             
 ├── environment.yml          # Conda 環境設定檔                                                                                                                                                                         
-└── .gitignore               # Git 忽略檔案規則                                                                                                                                                                         
+└── .gitignore               # Git 忽略檔案設定                                                                                                                                                                         
   Competetion2_Datasets_Link                                                                                                                                                                                          
   https://drive.google.com/drive/folders/1yDLcu1347yMhLSPXw9Mpt0ZT-po1hdvV?usp=sharing
