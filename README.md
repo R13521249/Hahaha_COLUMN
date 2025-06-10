@@ -13,7 +13,7 @@
 │   │   └── test/            # 測試集                                                                                                                                                                                   
 ├── column_data_yolov8.yaml  # YOLOv8 訓練資料設定檔                                                                                                                                                                     
 ├── column_submission.csv    # 推論結果輸出檔案                                                                                                                                                                          
-├── main.py                  # 主程式碼                                                                                                                                                                                
+├──DLCV_Final_Competetion_Column_YoloV8.ipynb # 主程式碼                                                                                                                                                                                
 ├── README.md                # 專案說明文件                                                                                                                                                                             
 ├── environment.yml          # Conda 環境設定檔                                                                                                                                                                         
 └── .gitignore               # Git 忽略檔案規則                                                                                                                                                                         
