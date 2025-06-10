@@ -1,0 +1,21 @@
+
+---
+
+### `environment.yml`
+
+```yaml
+name: yolov8_env
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.9
+  - pip
+  - numpy==1.26.4
+  - pandas
+  - matplotlib
+  - opencv
+  - pytorch==2.0.1
+  - torchvision==0.15.2
+  - pip:
+      - ultralytics
